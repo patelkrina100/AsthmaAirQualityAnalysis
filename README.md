@@ -1,6 +1,20 @@
 # DS4200 Final Project
- P2—Project Presentation: Asthma and Air Quality Analysis
 
+## P2—Project Presentation: Asthma and Air Quality Analysis
+
+Our project aims to analyze the correlation between air quality and the prevalence of asthma in children under 18 in the United States from 1997 to 2019. Using data from the CDC on asthma in children and the National Tier 1 Pollutants data for 1970-2022, we will create a series of interactive visualizations that reveal the effects of various air pollutants on respiratory health over time, with a specific focus on asthma in children.
+
+For our project focusing on the impact of industrial air pollution on health, specifically asthma, we have identified a pulmonologist curious about pollutants affecting asthma rates in children, and an employee from Dr. Reddy's Laboratories. This individual is an environmental specialist responsible for monitoring and managing the effects of air pollution on air quality at the pharmaceutical plant.
+
+We were faced with two questions: 
+“Which pollutants are most closely related to health issues & asthma?” - Pulmonologist
+“What are the most harmful pollutants that we need to focus on reducing emissions of?" - Dr. Reddy's Labroratories
+
+## Our Goal: Find the main sources of asthma that are related to air pollution 
+
+Through this collaboration, we aim to bridge the gap between industrial practices and community health concerns. Our project intends to use data visualization to highlight the health impacts of air pollution, fostering greater awareness and potentially influencing more sustainable practices.
+
+By making the following visualizations, our project aims to provide actionable insights into how air quality affects children's respiratory health, particularly asthma, thereby aiding companies, policymakers, healthcare professionals, and the public in making informed decisions for a healthier future.
 
 ![IMG_2783](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/b3bd2bc6-14b0-482b-928d-9d344d5c3b34)
 ![IMG_6070](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/c7922d1f-7a7b-4327-be06-f0ba11c9041d)
