@@ -19,12 +19,12 @@ Through this collaboration, we aim to bridge the gap between industrial practice
 
 By making the following visualizations, our project aims to provide actionable insights into how air quality affects children's respiratory health, particularly asthma, thereby aiding companies, policymakers, healthcare professionals, and the public in making informed decisions for a healthier future.
 
-![IMG_2783](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/b3bd2bc6-14b0-482b-928d-9d344d5c3b34)
+
 ![IMG_6070](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/c7922d1f-7a7b-4327-be06-f0ba11c9041d)
 ![IMG_2783](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/2d5b13ba-c673-4fd3-a866-27d8bdf2b7c9)
 ![IMG_1050](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/1f4a8a34-cb0c-41f5-a0f3-84e1c4d7315d)
 ![IMG_9796](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/7191c8b6-5626-4fc6-a6a9-95c6693b1d24)
-
+<img width="450" alt="Screenshot 2023-12-05 at 3 49 37 PM" src="https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/d9e7d402-0ba8-438c-bc38-7f1d00f23750">
 
 ## Works Cited: 
 
