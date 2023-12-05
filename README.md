@@ -3,7 +3,7 @@ Krina Patel, Rithesh Kayathi, Kaiya Clarke, & Gabriel Guon
 
 ## P2—Project Presentation: Asthma and Air Quality Analysis
 
-https://www.canva.com/design/DAF1w0zsqGo/KupKdizZhNMMGBI87F060Q/edit?utm_content=DAF1w0zsqGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+https://www.canva.com/design/DAF1w0zsqGo/KupKdizZhNMMGBI87F060Q/edit?utm_content=DAF1w0zsqGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 
 Our project aims to analyze the correlation between air quality and the prevalence of asthma in children under 18 in the United States from 1997 to 2019. Using data from the CDC on asthma in children and the National Tier 1 Pollutants data for 1970-2022, we have created a series of interactive visualizations that reveal the effects of various air pollutants on respiratory health over time, with a specific focus on asthma in children.
 
