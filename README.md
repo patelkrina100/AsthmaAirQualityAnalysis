@@ -24,7 +24,7 @@ By making the following visualizations, our project aims to provide actionable i
 ![IMG_2783](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/2d5b13ba-c673-4fd3-a866-27d8bdf2b7c9)
 ![IMG_1050](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/1f4a8a34-cb0c-41f5-a0f3-84e1c4d7315d)
 ![IMG_9796](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/7191c8b6-5626-4fc6-a6a9-95c6693b1d24)
-<img width="450" alt="Screenshot 2023-12-05 at 3 49 37 PM" src="https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/d9e7d402-0ba8-438c-bc38-7f1d00f23750">
+<img width="450" alt="Screenshot 2023-12-05 at 3 49 37 PM" src="https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/2ffbf3c9-760f-460b-9ced-fa7631653087">
 
 Rithesh: Helped make slides and infographics, attended meetings
 
