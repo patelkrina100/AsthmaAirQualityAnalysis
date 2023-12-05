@@ -27,8 +27,11 @@ By making the following visualizations, our project aims to provide actionable i
 <img width="450" alt="Screenshot 2023-12-05 at 3 49 37 PM" src="https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/d9e7d402-0ba8-438c-bc38-7f1d00f23750">
 
 Rithesh: Helped make slides and infographics, attended meetings
+
 Krina: Helped make slides and infographics, attended meetings
+
 Gabi: Helped make infographic and presentation, attended meetings
+
 Kaiya: Made presentation and a visual, attended meetings
 
 ## Works Cited: 
