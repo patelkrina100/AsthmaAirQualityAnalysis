@@ -1,4 +1,5 @@
 # DS4200 Final Project
+Krina Patel, Rithesh Kayathi, Kaiya Clarke, & Gabriel Guon
 
 ## P2—Project Presentation: Asthma and Air Quality Analysis
 
@@ -21,3 +22,18 @@ By making the following visualizations, our project aims to provide actionable i
 ![IMG_2783](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/2d5b13ba-c673-4fd3-a866-27d8bdf2b7c9)
 ![IMG_1050](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/1f4a8a34-cb0c-41f5-a0f3-84e1c4d7315d)
 ![IMG_9796](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/7191c8b6-5626-4fc6-a6a9-95c6693b1d24)
+
+
+## Works Cited: 
+
+Asthma Surveillance Data (Center for Disease Control, 2021) https://www.cdc.gov/nchs/hus/topics/asthma.htm
+
+Air Pollution and Emissions Trend Data (Environmental Protection Agency, 2022)
+https://www.epa.gov/air-emissions-inventories/air-pollutant-emissions-trends-data
+
+Regulating Power Sector Carbon Emissions Policy Hub (Center for Climate and Energy Solutions, 2023) https://www.c2es.org/category/policy-hub/
+
+Milestones in EPA and Environmental History (Environmental Protection Agency, 2023) https://www.epa.gov/history/milestones-epa-and-environmental-history
+
+
+
