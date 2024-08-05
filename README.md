@@ -1,7 +1,5 @@
-# DS4200 Final Project
+# ## Asthma and Air Quality Analysis
 Krina Patel, Rithesh Kayathi, Kaiya Clarke, & Gabriel Guon
-
-## Asthma and Air Quality Analysis
 
 https://www.canva.com/design/DAF1w0zsqGo/KupKdizZhNMMGBI87F060Q/edit?utm_content=DAF1w0zsqGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 
