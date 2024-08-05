@@ -26,16 +26,6 @@ By making the following visualizations, our project aims to provide actionable i
 ![IMG_9796](https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/7191c8b6-5626-4fc6-a6a9-95c6693b1d24)
 <img width="1200" alt="96443958-25F1-458B-B763-77074EBED6D0" src="https://github.com/patelkrina100/DS4200-Final-Project/assets/130016349/01b1a79f-9bb2-4c72-8b7f-9ae0347a95a5">
 
-## Contributions: 
-
-Rithesh: Helped make slides and infographics, attended meetings
-
-Krina: Helped make slides and infographics, attended meetings
-
-Gabi: Helped make infographic and presentation, attended meetings
-
-Kaiya: Made presentation and a visual, attended meetings
-
 ## Works Cited: 
 
 Asthma Surveillance Data (Center for Disease Control, 2021) https://www.cdc.gov/nchs/hus/topics/asthma.htm
